@@ -1,4 +1,4 @@
-package homework59_OV;
+package homework58_OV;
 
 public class BankAccount {
     private Person person;
